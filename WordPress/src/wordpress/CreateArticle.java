@@ -14,10 +14,7 @@ import javax.swing.JOptionPane;
 
 import static wordpress.Wordpress.myConn;
 
-/**
- *
- * @author Cosmin-Marian
- */
+
 public class CreateArticle extends javax.swing.JFrame {
 
     private static Connection conn = null;
