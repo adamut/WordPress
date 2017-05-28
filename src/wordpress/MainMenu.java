@@ -8,10 +8,6 @@ package wordpress;
 import java.sql.Connection;
 import javax.swing.DefaultListModel;
 
-/**
- *
- * @author Cosmin-Marian
- */
 public class MainMenu extends javax.swing.JFrame {
 
     Connection conn;

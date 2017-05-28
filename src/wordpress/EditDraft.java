@@ -17,6 +17,7 @@ import javax.swing.DefaultListModel;
 import javax.swing.JOptionPane;
 import static wordpress.Wordpress.myConn;
 
+
 public class EditDraft extends javax.swing.JFrame {
 
     Connection conn = null;
