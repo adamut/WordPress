@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package wordpress;
 
 import java.sql.Connection;
@@ -17,10 +12,7 @@ import javax.swing.DefaultListModel;
 import javax.swing.JOptionPane;
 import static wordpress.Wordpress.myConn;
 
-/**
- *
- * @author Cosmin-Marian
- */
+
 public class SeeDrafts extends javax.swing.JFrame {
 
     Connection conn = null;
