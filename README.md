@@ -1,2 +1,0 @@
-# WordPress
-P.A.O
